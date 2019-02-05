@@ -17,6 +17,13 @@ Our code is based on the original CycleGAN implementation in Pytorch that you ca
 
 ## Results
 
+Images come from the "labels→photo" generator for different methods on :
+
+* Cityscapes dataset
 ![](./results/cityscapes.png)
+
+* data scraped from Google Maps
 ![](./results/googlemaps.png)
+
+* CMP Facaces
 ![](./results/cmpfacades.png)
