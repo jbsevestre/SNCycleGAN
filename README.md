@@ -9,6 +9,7 @@ This project was realiazed for the Object Recognition and Computer Vision course
 I work on this project with Matthieu Toulemont. Link of his GitHub https://github.com/MattToul
 
 The results that we obtain and the details about the implemention are shown in report.pdf, in the report file.
+The report was limited to 3 pages (+images).
 
 In our code and our report, we also compared the CycleGAN with Spectral Normalization to another method that stabilized the training of GANs ; the WGAN-GP
 
