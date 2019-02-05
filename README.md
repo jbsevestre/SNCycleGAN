@@ -1,4 +1,4 @@
-# SNCycleGAN
+# SN-CycleGAN
 
 CycleGAN with Spectral Normalization on the discriminator weights
 
