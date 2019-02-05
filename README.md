@@ -14,3 +14,9 @@ The report was limited to 3 pages (+images).
 In our code and our report, we also compared the CycleGAN with Spectral Normalization to another method that stabilized the training of GANs ; the WGAN-GP
 
 Our code is based on the original CycleGAN implementation in Pytorch that you can find here https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+
+## Results
+
+![](./results/cityscapes.png)
+![](./results/googlemaps.png)
+![](./results/cmpfacades.png)
