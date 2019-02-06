@@ -13,7 +13,7 @@ I worked with Matthieu Toulemont. Link of his GitHub https://github.com/MattToul
 The obtained results and the details about the implemention are shown in report.pdf, in the report file.
 The report was limited to 3 pages (+images).
 
-In our code and our report, we also compared the CycleGAN with Spectral Normalization to another method that stabilized the training of GANs ; the WGAN-GP
+Note that we also compared the SN-CycleGAN to another method that stabilized the training of GANs ; the WGAN-GP
 
 Our code is based on the original CycleGAN implementation in Pytorch that you can find here https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
