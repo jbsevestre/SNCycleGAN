@@ -4,8 +4,6 @@ CycleGAN with Spectral Normalization on the discriminator weights
 
 ### Information
 
---- The code will be provided soon ---
-
 This project was realiazed for the Object Recognition and Computer Vision course that we had in M.Sc. MVA (ENS Paris-Saclay).
 
 I worked with Matthieu Toulemont. Link of his GitHub https://github.com/MattToul
